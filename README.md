@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veronika</h1>
-- 👀 I’m interested in **Fronted development, UX/UI, React**
+- 👀 I’m interested in **Frontend development, UX/UI, JS, React**
 - 🌱 I’m currently learning **Typescript**
 - 🔭 I’m currently working on **My personal web portfolio**
 - 💝 I enjoy **drawing, photography, horseback riding, running, reading **
